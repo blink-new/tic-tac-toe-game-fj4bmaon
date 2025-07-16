@@ -1,0 +1,50 @@
+[
+  {
+    "id": "IN",
+    "name": "India",
+    "currency": "INR",
+    "flag": "🇮🇳"
+  },
+  {
+    "id": "PK",
+    "name": "Pakistan",
+    "currency": "PKR",
+    "flag": "🇵🇰"
+  },
+  {
+    "id": "BD",
+    "name": "Bangladesh",
+    "currency": "BDT",
+    "flag": "🇧🇩"
+  },
+  {
+    "id": "PH",
+    "name": "Philippines",
+    "currency": "PHP",
+    "flag": "🇵🇭"
+  },
+  {
+    "id": "LK",
+    "name": "Sri Lanka",
+    "currency": "LKR",
+    "flag": "🇱🇰"
+  },
+  {
+    "id": "NP",
+    "name": "Nepal",
+    "currency": "NPR",
+    "flag": "🇳🇵"
+  },
+  {
+    "id": "EG",
+    "name": "Egypt",
+    "currency": "EGP",
+    "flag": "🇪🇬"
+  },
+  {
+    "id": "JO",
+    "name": "Jordan",
+    "currency": "JOD",
+    "flag": "🇯🇴"
+  }
+]
